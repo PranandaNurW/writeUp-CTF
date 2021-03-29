@@ -2,7 +2,7 @@
 
 diberikan file pdf
 
-
+[pdf](https://github.com/PranandaNurW/writeUp-CTF/blob/main/dvCTF/stega/Pidieff/super_secret.pdf)
 
 # How to solve <a name="How to solve"></a>
 1. Membuka file pdfnya (kebetulan saya pakai foxit reader)
