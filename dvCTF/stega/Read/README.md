@@ -2,12 +2,12 @@
 
 diberikan file gambar .png
 
-
+![](https://github.com/PranandaNurW/writeUp-CTF/blob/main/dvCTF/stega/Read/flag.png)
 
 # How to solve <a name="How to solve"></a>
 Membaca gambar tersebut dengan bantuan tool https://magiceye.ecksdee.co.uk/
 
-
+![](https://github.com/PranandaNurW/writeUp-CTF/blob/main/dvCTF/stega/Read/read.png)
 
 dan ketemu flagnya
 
