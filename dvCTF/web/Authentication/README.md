@@ -14,6 +14,11 @@ http://challs.dvc.tf:1337/
 
 Ternyata berhasil login dengan menggunakan sql injection 
 
+![](https://github.com/PranandaNurW/writeUp-CTF/blob/main/dvCTF/web/Authentication/admin.png)
+
 lalu view page source dan ketemu flagnya
+
+![](https://github.com/PranandaNurW/writeUp-CTF/blob/main/dvCTF/web/Authentication/inspect.png)
+
 
 #### dvCTF{!th4t_w4s_34sy!} <a name="flag"></a>
